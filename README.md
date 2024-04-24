@@ -3,7 +3,7 @@
 
 I am a technology professional with a fascination with cybersecurity and the ever evolving battle between security inovations and new threats. I bring not only technican expertise, but also ten years of expereince in customer service and team management that give me a unique skillset in the cybersecurity space.
 
-My journey into cybersecurity has been an thrilling venture. I have achieved a Google Security Certification, CompTIA Security+ Certification, and a Master's in Cybersecurity. I am currently working towards my Splunk Core Certified User certification, and I am looking to utilize my skills and experiences as a Security Analyst.
+My journey into cybersecurity has been an thrilling venture. I am currently working towards my Splunk Core Certified User certification, and I am looking to utilize my skills and experiences as a Security Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -43,7 +43,7 @@ My journey into cybersecurity has been an thrilling venture. I have achieved a G
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="34700dfa-b73f-4d1c-8295-c901303539cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
