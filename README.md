@@ -43,7 +43,7 @@ My journey into cybersecurity has been an thrilling venture. I am currently work
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.credly.com/badges/34700dfa-b73f-4d1c-8295-c901303539cb"><img src="https://github.com/rfboese4/rfboese4/blob/main/comptia-security-ce-certification.png" /></a>
+<a href="https://www.credly.com/badges/34700dfa-b73f-4d1c-8295-c901303539cb"><img src="https://github.com/rfboese4/rfboese4/blob/main/comptia-security-ce-certification (1).png" /></a>
 <a href="https://www.credly.com/badges/17680668-d963-4ca9-9add-460206fd8aad"><img src="https://github.com/rfboese4/rfboese4/blob/main/google-cybersecurity-certificate.png" /></a>
 </div>
 
