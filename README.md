@@ -6,7 +6,6 @@ I am a technology professional with a fascination with cybersecurity and the eve
 My journey into cybersecurity has been an thrilling venture. I am currently working towards my Splunk Core Certified User certification, and I am looking to utilize my skills and experiences as a Security Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +17,6 @@ My journey into cybersecurity has been an thrilling venture. I am currently work
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
