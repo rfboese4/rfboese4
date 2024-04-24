@@ -5,6 +5,12 @@ I am a technology professional with a fascination with cybersecurity and the eve
 
 My journey into cybersecurity has been an thrilling venture. I am currently working towards my Splunk Core Certified User certification, and I am looking to utilize my skills and experiences as a Security Analyst.
 
+## Current Projects
+Microsoft Endpoint Protection
+Network Traffic Analysis
+Microsoft Active Directory
+Windows Event Logs Analysis
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -19,27 +25,15 @@ My journey into cybersecurity has been an thrilling venture. I am currently work
 ## Tools
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/34700dfa-b73f-4d1c-8295-c901303539cb"><img src="https://github.com/rfboese4/rfboese4/blob/main/comptia-security-ce-certification (1).png" /></a>
 <a href="https://www.credly.com/badges/17680668-d963-4ca9-9add-460206fd8aad"><img src="https://github.com/rfboese4/rfboese4/blob/main/google-cybersecurity-certificate.png" /></a>
